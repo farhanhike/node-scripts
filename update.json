@@ -1,0 +1,53 @@
+{
+  "MDPI": {
+    "gcsPath": "stickers/3805/staticRegular/MDPI.png",
+    "s3Path": "stickers/3805/staticRegular/MDPI.png",
+    "width": 154,
+    "height": 157,
+    "size": 9321
+  },
+  "HDPI": {
+    "gcsPath": "stickers/3805/staticRegular/HDPI.png",
+    "s3Path": "stickers/3805/staticRegular/HDPI.png",
+    "width": 260,
+    "height": 264,
+    "size": 20478
+  },
+  "XHDPI": {
+    "gcsPath": "stickers/3805/staticRegular/XHDPI.png",
+    "s3Path": "stickers/3805/staticRegular/XHDPI.png",
+    "width": 350,
+    "height": 355,
+    "size": 29357
+  },
+  "LDPI": {
+    "gcsPath": "stickers/3805/staticRegular/LDPI.png",
+    "s3Path": "stickers/3805/staticRegular/LDPI.png",
+    "width": 118,
+    "height": 120,
+    "size": 6608
+  },
+  "XXHDPI": {
+    "gcsPath": "stickers/3805/staticRegular/XXHDPI.png",
+    "s3Path": "stickers/3805/staticRegular/XXHDPI.png",
+    "width": 531,
+    "height": 539,
+    "size": 41047
+  },
+  "WVGA": {
+    "gcsPath": "stickers/3805/staticRegular/WVGA.png",
+    "s3Path": "stickers/3805/staticRegular/WVGA.png"
+  },
+  "NOKIA": {
+    "gcsPath": "stickers/3805/staticRegular/NOKIA.png",
+    "s3Path": "stickers/3805/staticRegular/NOKIA.png"
+  },
+  "WIN": {
+    "gcsPath": "stickers/3805/staticRegular/WIN.png",
+    "s3Path": "stickers/3805/staticRegular/WIN.png"
+  },
+  "BB": {
+    "gcsPath": "stickers/3805/staticRegular/BB.png",
+    "s3Path": "stickers/3805/staticRegular/BB.png"
+  }
+}

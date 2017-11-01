@@ -1,0 +1,27 @@
+{
+  "XXHDPI": {
+    "width": 531,
+    "height": 539,
+    "size": 41047
+  },
+  "XHDPI": {
+    "width": 350,
+    "height": 355,
+    "size": 29357
+  },
+  "LDPI": {
+    "width": 118,
+    "height": 120,
+    "size": 6608
+  },
+  "MDPI": {
+    "width": 154,
+    "height": 157,
+    "size": 9321
+  },
+  "HDPI": {
+    "width": 260,
+    "height": 264,
+    "size": 20478
+  }
+}
