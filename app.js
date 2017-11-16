@@ -9,7 +9,7 @@ var multer = require('multer');
 var app = express();
 var db = require('./lib/db/mongo');
 // var stickers = require('./lib/controllers/sticker');
-var sticker = require('./lib/controllers/sticker');
+var imageUpdate = require('./lib/controllers/imageUpdate');
 
 // view engine setup
 app.set('views', path.join(__dirname, 'app'));
