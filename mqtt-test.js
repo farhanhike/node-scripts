@@ -5,7 +5,6 @@ var mqtt = require('mqtt')
 // staging
 var clientId = '+918375988189:0:true:1:1'
 var host = 'tcp://mqtt.im.hike.in:1883'
-
 var options = {
   clientId: clientId,
   username: "VdX_2Q1EL1PckLeQ",
