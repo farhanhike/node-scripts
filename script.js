@@ -12,7 +12,7 @@ var connection = mysql.createConnection({
 });
 
 
-// connection.connect();
+connection.connect();
 
 function getIds() {
     var stickers = require('./data.js').stickers
@@ -49,7 +49,7 @@ function getReplies() {
     async.eachSeries(stickers, function(sticker, callback) {
         var sqlId = sticker.id
         
-        var query = 'SELECT id,reco_id,score FROM qs_reply WHERE id = ' + connection.escape(sqlId) + ' AND rejected = 0 ORDER BY score DESC '
+        var query = 'SELECT id,reco_id,score FROM qs_followup WHERE id = ' + connection.escape(sqlId) + ' AND rejected = 0 ORDER BY score DESC '
         connection.query(query, function(err, results, fields) {
             if(err) {
                 callback(err) 
@@ -90,7 +90,7 @@ function getReplies() {
             console.log(error)
         }
         else {
-            jsonfile.writeFile("sticker_reply.json", replies_result, {spaces: 2}, function (err) {
+            jsonfile.writeFile("sticker_followup.json", replies_result, {spaces: 2}, function (err) {
                 console.log("Reply fetching finished")
             })
         }
