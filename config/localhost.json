@@ -1,0 +1,24 @@
+{
+    "mongodb": {
+        "uri": "mongodb://localhost:27017/stickerdb"
+    },
+    "cloudinary": {
+        "cloud_name": "dh0cdtran",
+        "api_key": "351595964363221",
+        "api_secret": "ppv1Vz00kp_rdX-lYQzvwGfowB8"
+    },
+    "gcs": {
+        "legacy_bucket": "hike-docker-str00",
+        "bucket": "hike-docker-str00",
+        "project_id": "msg-infra",
+        "urlPrefix": ""
+    },
+    "imageFolder": {
+        "cloudinaryOrgImgFolder": "dev-testing/stickers",
+        "dropbox": "/Users/farhanmahmood/Dropbox (Hike)"
+    },
+    "resFactor": {
+        "sticker": {"HDPI":0.4888888889, "LDPI":0.2222222222, "MDPI":0.2888888889, "XHDPI":0.6537037037, "XXHDPI":1},
+        "miniSticker": 0.359259593
+    }
+}
