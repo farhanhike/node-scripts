@@ -9,8 +9,7 @@ var multer = require('multer');
 var app = express();
 var db = require('./lib/db/mongo');
 // var stickers = require('./lib/controllers/sticker');
-var imageUpdate = require('./lib/controllers/imageUpdate');
-
+var typos = require('./lib/controllers/typoscript')
 // view engine setup
 app.set('views', path.join(__dirname, 'app'));
 app.set('view engine', 'jade');
