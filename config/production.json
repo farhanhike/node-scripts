@@ -1,0 +1,24 @@
+{
+    "mongodb": {
+        "uri": "mongodb://10.9.17.155:27017,10.9.17.156:27017,10.0.0.21:27107,10.0.5.21:27017/stickerdb?replicaSet=stickers"
+    },
+    "cloudinary": {
+        "cloud_name": "hike",
+        "api_key": "518566254783789",
+        "api_secret": "XAvcJUZEj9hWO644vUnPaVv5IzQ"
+    },
+    "gcs": {
+        "legacyBucket": "sticker-store",
+        "bucket": "sticker-images",
+        "projectId": "msg-infra",
+        "urlPrefix": "https://sticker-images.im.hike.in"
+    },
+    "imageFolder": {
+        "cloudinaryOrgImgFolder": "stk_prod_temp",
+        "dropbox": "/home/dropbosx/Dropbox (Hike)"
+    },
+    "resFactor": {
+        "sticker": {"HDPI":0.4888888889, "LDPI":0.2222222222, "MDPI":0.2888888889, "XHDPI":0.6537037037, "XXHDPI":1},
+        "miniSticker": 0.359259593
+    }
+}
