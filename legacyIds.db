@@ -8,10 +8,6 @@
 {"lcid":"cats350","lsid":"037_cats_pushoff.png","error":true,"errorVal":"not found in db","_id":"2dGei0K18k45lx1q"}
 {"lcid":"cats400","lsid":"005_cats_phew.png","error":true,"errorVal":"not found in db","_id":"2fn26NZlNTmQte1l"}
 {"lcid":"lvhc","lsid":"006_lvhc_loverspoint.png","error":true,"errorVal":"Error: socket hang up","_id":"2hT711ca9vziDGOi"}
-{"lcid":"nsitpatna","lsid":"008_nsitpatna_smoke.png","error":true,"errorVal":"not exists in new world","_id":"2hknQIbD3D0fJlY5"}
-{"lcid":"bhojpuricinema","lsid":"014_brc_debukiapneleli.png","error":true,"errorVal":"not exists in new world","_id":"2hxsnx0uNZSSdv8w"}
-{"lcid":"mohanlal","lsid":"006_mohan_savarigirigiri.png","error":true,"errorVal":"not exists in new world","_id":"2i5A0OlkOkzmJk7U"}
-{"lcid":"humanoid","lsid":"078_happydiwali.png","error":true,"errorVal":"not exists in new world","_id":"2i8gqFofHtRf3Idv"}
 {"lcid":"hinfamily","lsid":"010_hinfam_apnakaamtukhudkar.png","error":true,"errorVal":"not exists in new world","_id":"2iMxTbq2OFTDbVV8"}
 {"lcid":"marathicinema2","lsid":"017_mc2_navinpopatha.png","error":true,"errorVal":"not exists in new world","_id":"2ikIrTI58BAUDlhk"}
 {"lcid":"indian2","lsid":"050_ind2_faltu.png","error":true,"errorVal":"not exists in new world","_id":"2jUaNzy6kN0Yhyyf"}
@@ -2010,7 +2006,6 @@
 {"lcid":"iimb","lsid":"003_iimb_wtank.png","error":true,"errorVal":"not exists in new world","_id":"BXbfVtRyR0g8jUA9"}
 {"lcid":"sainik","lsid":"025_sainik_raja.png","error":true,"errorVal":"not exists in new world","_id":"BXqp9ASCpKkr2vcp"}
 {"lcid":"jamia","lsid":"002_jamia_jugaad.png","error":true,"errorVal":"not exists in new world","_id":"BXrUqdkeIpZIzkHD"}
-{"lcid":"indiansuperleague","lsid":"006_isl_keralablasters.png","error":true,"errorVal":"not exists in new world","_id":"BY6p7mVaKGSsQWAy"}
 {"lcid":"kannadacinema","lsid":"013_kac_annthamma.png","error":true,"errorVal":"not exists in new world","_id":"BY8TAD2sSWfu0Kep"}
 {"lcid":"rhyminggreetings","lsid":"018_rhyme_getinline.png","error":true,"errorVal":"not exists in new world","_id":"BYOKGzaSnhBJkTVF"}
 {"lcid":"rait","lsid":"007_rait_bunk.png","error":true,"errorVal":"not exists in new world","_id":"BYsiFqIwG03ZDv95"}
@@ -15987,3 +15982,27 @@
 {"lcid":"entourage","lsid":"005_entour_amigeniusorwhat.png","error":true,"errorVal":"not exists in new world","_id":"zztXPvcbOvuuJibM"}
 {"lcid":"marathiwe","lsid":"004_marwe_moodkharabahey.png","error":true,"errorVal":"not exists in new world","_id":"zzzM37vH8ZB6itr3"}
 {"$$indexCreated":{"fieldName":"error","unique":false,"sparse":false}}
+{"$$deleted":true,"_id":"BY8TAD2sSWfu0Kep"}
+{"$$deleted":true,"_id":"HiVDh5fuDkTWcn1I"}
+{"$$deleted":true,"_id":"OC2YInAA5lce2DOB"}
+{"$$deleted":true,"_id":"X3ENtQgr15du5nNP"}
+{"$$deleted":true,"_id":"2iMxTbq2OFTDbVV8"}
+{"$$deleted":true,"_id":"ew34W2NxZuEmKMP3"}
+{"$$deleted":true,"_id":"BYOKGzaSnhBJkTVF"}
+{"$$deleted":true,"_id":"HigbMfNs6ZvFpPiB"}
+{"$$deleted":true,"_id":"OC9Ax72jupV6rWxK"}
+{"$$deleted":true,"_id":"X3bfdrjI4hdJA49N"}
+{"$$deleted":true,"_id":"2ikIrTI58BAUDlhk"}
+{"$$deleted":true,"_id":"ewBvhL2aecNUhI5X"}
+{"$$deleted":true,"_id":"BYsiFqIwG03ZDv95"}
+{"$$deleted":true,"_id":"HiyYZRjb69WC7y0c"}
+{"$$deleted":true,"_id":"OCFLwevwV1UMZu5Q"}
+{"$$deleted":true,"_id":"X3q7K22lDZOTUxqx"}
+{"$$deleted":true,"_id":"2jUaNzy6kN0Yhyyf"}
+{"$$deleted":true,"_id":"ewXBQbWtgGybafDr"}
+{"$$deleted":true,"_id":"BYwXUszFWFNhi40X"}
+{"$$deleted":true,"_id":"Hj8ZXlEgBrieGxfs"}
+{"$$deleted":true,"_id":"OCHDtRYY3YJogixa"}
+{"$$deleted":true,"_id":"X3vIq9MlW3mePbsQ"}
+{"$$deleted":true,"_id":"2kBBeyWcVdbUHZ9w"}
+{"$$deleted":true,"_id":"ewvqzisHrm1SFLFN"}
