@@ -1,0 +1,44 @@
+html
+	head
+		title
+			| Farhan sends
+	body
+	//- farhan account
+	script(src="./browserMqtt.js")
+	script(type='text/javascript').
+		var clientId = '+919953753342:4:true:1:1'
+		var host = 'ws://52.76.190.255:8080'
+		var options = {
+			clientId: clientId,
+			username: "Wc30IA1EL1UxUl_f",
+			password: "VXpRjHuPk3A=",
+			rejectUnauthorized: true
+		}
+		var client = mqtt.connect(host, options)
+
+		client.on('error', function (err) {
+			console.log("Connection Error" , err)
+			client.end()
+		})
+
+		client.on('connect', function () {
+			console.log('client connected:' + clientId)
+			//- client.subscribe('WhMpU_VczAATizJN/s', { qos: 1 })
+
+			client.publish('VdX_2Q1EL1PckLeQ/s', JSON.stringify({"to":"+918375988189","d":{"ts":Date.now(),"i":2,"sm":"hello from farhan" + Date.now()},"t":"m"}), { qos: 1, reatin:true}, function(error, val) {
+				if(error) {
+					console.log("Publish Error", error)
+				}
+				else {
+					console.log(val)
+				}
+			})
+		})
+		
+		client.on('message', function (topic, message, packet) {
+			console.log('Received Message:= ' + message.toString() + '\nOn topic:= ' + topic)
+		})
+
+		client.on('close', function () {
+			console.log(clientId + ' disconnected')
+		})

@@ -1,0 +1,46 @@
+html
+	head
+		title
+			| Chaitanya Listens
+	body
+	//- script(src="./browserMqtt.js")
+	script(src="./mqttBro.js")
+	script(type='text/javascript').
+		var clientId = '+918375988189:4:true:1:1'
+		var host = 'ws://52.76.190.255:8080'
+		var options = {
+			clientId: clientId,
+			username: "VdX_2Q1EL1PckLeQ",
+			password: "tYiGRQ5fFkc=",
+			rejectUnauthorized: true
+		}
+
+		var client = mqtt.connect(host, options)
+
+		client.on('error', function (err) {
+			console.log("Connection Error" , err)
+			client.end()
+		})
+
+		client.on('connect', function () {
+			console.log('client connected:' + clientId)
+			client.subscribe('VdX_2Q1EL1PckLeQ/s', { qos: 1 })
+
+			//- client.publish('WhMpU_VczAATizJN/s', JSON.stringify({"to":"+919953753342","d":{"ts":Date.now(),"i":2,"sm":"Helsadlo11"},"t":"m"}), { qos: 1, reatin:true}, function(error, val) {
+			//- 	if(error) {
+			//- 		console.log("Publish Error", error)
+			//- 	}
+			//- 	else {
+			//- 		console.log(val)
+			//- 	}
+			//- })
+		})
+
+		client.on('message', function (topic, message, packet) {
+			console.log('Received Message:= ' + JSON.parse(message) + '\nOn topic:= ' + topic)
+		})
+
+		client.on('close', function () {
+			console.log(clientId + ' disconnected')
+		})
+		

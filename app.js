@@ -4,12 +4,12 @@ var logger = require('morgan');
 var bodyParser = require('body-parser');
 var multer = require('multer');
 
-// var search = require('./routes/search');
+var search = require('./routes/search');
 
 var app = express();
 var db = require('./lib/db/mongo');
 // var stickers = require('./lib/controllers/sticker');
-var imageUpdate = require('./lib/controllers/imageUpdate');
+// var imageUpdate = require('./lib/controllers/imageUpdate');
 
 // view engine setup
 app.set('views', path.join(__dirname, 'app'));
@@ -22,7 +22,15 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(express.static(path.join(__dirname, 'app')));
 
-// app.use('/search', search);
+app.use('/search', search);
+
+app.get('/farhan', function(req, res) {
+    res.render('farhan')
+})
+
+app.get('/chaitanya', function(req, res) {
+    res.render('chaitanya')
+})
 
 // app.get('/', function(req, res, next) {
 // 	res.render('search')

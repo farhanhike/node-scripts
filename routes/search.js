@@ -3,7 +3,7 @@ var router = express.Router();
 var solr = require('./../lib/controllers/solr')
 
 router.get('/', function(req, res, next) {
-	res.render('search')
+	res.render('farhan')
 })
 
 router.post('/', function(req, res, next) {
