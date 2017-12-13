@@ -1,20 +1,4 @@
-{"lcid":"chattisgarhlove","lsid":"031_chl_molalagtheme.png","error":true,"errorVal":"not exists in new world","_id":"pMkkYyoXVgU0zHCy"}
-{"lcid":"humanoid","lsid":"052_chiling.png","error":true,"errorVal":"not exists in new world","_id":"pMoNPDlFVxpRl5Ji"}
-{"lcid":"wmnsc","lsid":"008_wmnsc_smoke.png","error":true,"errorVal":"not exists in new world","_id":"pMxKP05AT1ipxENH"}
-{"lcid":"santhanam","lsid":"011_aiimariyadha.png","error":true,"errorVal":"not exists in new world","_id":"pMxfkwrSdnknZwwN"}
-{"lcid":"marathinicknames","lsid":"007_marnick_kombda.png","error":true,"errorVal":"not exists in new world","_id":"pN7Vpe6Ku6D6uotg"}
-{"lcid":"paceinstt","lsid":"004_paceinstt_library.png","error":true,"errorVal":"not exists in new world","_id":"pNKNUEKH4agdzZez"}
-{"lcid":"thankswelcome","lsid":"001_thankswelcome_thanksalot.png","error":true,"errorVal":"not exists in new world","_id":"pNLGVJDURKRHxjUS"}
-{"lcid":"kolkatastreetlingo","lsid":"030_kolsl_jhaalmooricholbe.png","error":true,"errorVal":"not exists in new world","_id":"pNiEFXRfj6KfZejA"}
-{"lcid":"ekamra","lsid":"005_ekamra_canteen.png","error":true,"errorVal":"not exists in new world","_id":"pNk7C2o1NrcnZxWc"}
-{"lcid":"iicpt","lsid":"007_iicpt_bunk.png","error":true,"errorVal":"not exists in new world","_id":"pO73f9PpvwLFmJDZ"}
-{"lcid":"sjce","lsid":"003_sjce_fest.png","error":true,"errorVal":"not exists in new world","_id":"pOG7YpiCLIqAaoTg"}
-{"lcid":"desilove","lsid":"001_ilu_babu.png","error":true,"errorVal":"not exists in new world","_id":"pOQ6VphtkfzSdG6h"}
-{"lcid":"guwahati2","lsid":"004_as_valdiladei.png","error":true,"errorVal":"not exists in new world","_id":"pOSUeOfCnPuqXdVW"}
-{"lcid":"chotusardar","lsid":"001_surdy_happy.png","error":true,"errorVal":"not exists in new world","_id":"pOv8Hjd1CE1M62U0"}
-{"lcid":"khasi","lsid":"030_khas_phidonshano.png","error":true,"errorVal":"not exists in new world","_id":"pPBKNEZbykvc2KN4"}
-{"lcid":"sports","lsid":"030_arsenal.png","error":true,"errorVal":"not exists in new world","_id":"pPOfRXWWQt8EZk0I"}
-{"lcid":"chennai2","lsid":"070_tn2_odhavaangapora.png","error":true,"errorVal":"not exists in new world","_id":"pPg7tEF5joZYoTn7"}
+{"lcid":"chotusardar","lsid":"001_surdy_happy.png","error":true,"errorVal":"Error: The uploaded data did not match the data from the server. As a precaution, the file has been deleted. To be sure the content is the same, you should try uploading the file again.","_id":"pOv8Hjd1CE1M62U0"}
 {"lcid":"festive","lsid":"286_foi_hargange.png","error":true,"errorVal":"not exists in new world","_id":"pPv9cIizkVthxwlk"}
 {"lcid":"classicbolly","lsid":"004_clbo_aisakya.png","error":true,"errorVal":"not exists in new world","_id":"pPyF4MxXeLxdVaRo"}
 {"lcid":"nigerian","lsid":"004_nig_iloveyoudie.png","error":true,"errorVal":"not exists in new world","_id":"pPzRkuE4Zee3BSYB"}
@@ -1998,3 +1982,5 @@
 {"lcid":"got","lsid":"006_got_knowledgeispower.png","error":true,"errorVal":"not exists in new world","_id":"vZeBmze2rVqrPDUF"}
 {"lcid":"classicbolly","lsid":"016_clbo_ekphootikaudi.png","error":true,"errorVal":"not exists in new world","_id":"vZiW5O0OUfhEHJrG"}
 {"lcid":"kolkata2","lsid":"032_ko2_bindass.png","error":true,"errorVal":"not exists in new world","_id":"vZko3u3fjgCIZRXa"}
+{"$$deleted":true,"_id":"pPv9cIizkVthxwlk"}
+{"$$deleted":true,"_id":"pPyF4MxXeLxdVaRo"}
