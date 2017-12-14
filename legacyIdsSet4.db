@@ -94,16 +94,7 @@
 {"lcid":"experiments","lsid":"002_alliswell.png","error":true,"errorVal":"not found in db","_id":"UwQkVBGN8QcvFCOx"}
 {"lcid":"octopus400","lsid":"025_octo_sunainhidera.png","error":true,"errorVal":"not found in db","_id":"VIXZFEd5bUlk4R94"}
 {"lcid":"bannarajput2","lsid":"016_banarj2_hallomatikaro.png","error":true,"errorVal":"Error: Not Found","_id":"vbV51cTQgcFun89j"}
-{"lcid":"pres","lsid":"004_pres_kannagi.png","error":true,"errorVal":"Error: The uploaded data did not match the data from the server. As a precaution, we attempted to delete the file, but it was not successful. To be sure the content is the same, you should try removing the file manually, then uploading the file again. \n\nThe delete attempt failed with this message: \n\n  Not Found","_id":"wVs2fAWeAqk3LFDm"}
-{"lcid":"guwahati2","lsid":"017_as_belnkibe.png","error":true,"errorVal":"Error: The uploaded data did not match the data from the server. As a precaution, we attempted to delete the file, but it was not successful. To be sure the content is the same, you should try removing the file manually, then uploading the file again. \n\nThe delete attempt failed with this message: \n\n  Not Found","_id":"wWoVQAq6ZvgKF3ih"}
-{"lcid":"halim","lsid":"007_halim_bunk.png","error":true,"errorVal":"Error: The uploaded data did not match the data from the server. As a precaution, the file has been deleted. To be sure the content is the same, you should try uploading the file again.","_id":"waSR2pBCCKTZgxgS"}
-{"lcid":"couplefights","lsid":"019_couplefights_alwayscomplaining.png","error":true,"errorVal":"not exists in new world","_id":"whpTidCWoJu8mA6l"}
-{"lcid":"biharlove2","lsid":"022_brl2_toharankhiya.png","error":true,"errorVal":"not exists in new world","_id":"wi4plqhRc9RwnCzB"}
-{"lcid":"kerala","lsid":"037_kl_eppo.png","error":true,"errorVal":"not exists in new world","_id":"wiHOZniROy1TAMYG"}
-{"lcid":"avcollege","lsid":"007_avcollege_bunk.png","error":true,"errorVal":"not exists in new world","_id":"wiKQXHwA0jI4GTyy"}
-{"lcid":"bucollege","lsid":"004_bucollege_complab.png","error":true,"errorVal":"not exists in new world","_id":"wiMjz58FPITflj2t"}
-{"lcid":"biharlove2","lsid":"042_brl2_khushrahi.png","error":true,"errorVal":"not exists in new world","_id":"wihRwKFNpW9hVHfP"}
-{"lcid":"ipl","lsid":"021_ipl_borntowin.png","error":true,"errorVal":"not exists in new world","_id":"wijROBcMywEyAtBG"}
+{"lcid":"halim","lsid":"007_halim_bunk.png","error":true,"errorVal":"[object Object]","_id":"waSR2pBCCKTZgxgS"}
 {"lcid":"suraj2","lsid":"013_suraj2_inganaidikanoingana.png","error":true,"errorVal":"not exists in new world","_id":"wj6HarqoZAimQbzK"}
 {"lcid":"haryanafriendship2","lsid":"030_harfrnd2_tughanapadhrhy.png","error":true,"errorVal":"not exists in new world","_id":"wjhJxzZhyqM5paIA"}
 {"lcid":"drkcollege","lsid":"004_drkcollege_library.png","error":true,"errorVal":"not exists in new world","_id":"wk10oMm8IE2XAUlg"}
@@ -1067,8 +1058,7 @@
 {"lcid":"experiments","lsid":"002_alliswell.png","error":true,"errorVal":"not found in db","_id":"UwQkVBGN8QcvFCOx"}
 {"lcid":"octopus400","lsid":"025_octo_sunainhidera.png","error":true,"errorVal":"not found in db","_id":"VIXZFEd5bUlk4R94"}
 {"lcid":"bannarajput2","lsid":"016_banarj2_hallomatikaro.png","error":true,"errorVal":"Error: Not Found","_id":"vbV51cTQgcFun89j"}
-{"$$deleted":true,"_id":"wVs2fAWeAqk3LFDm"}
-{"lcid":"guwahati2","lsid":"017_as_belnkibe.png","error":true,"errorVal":"Error: The uploaded data did not match the data from the server. As a precaution, we attempted to delete the file, but it was not successful. To be sure the content is the same, you should try removing the file manually, then uploading the file again. \n\nThe delete attempt failed with this message: \n\n  Not Found","_id":"wWoVQAq6ZvgKF3ih"}
-{"lcid":"halim","lsid":"007_halim_bunk.png","error":true,"errorVal":"not exists in new world","_id":"waSR2pBCCKTZgxgS"}
-{"$$deleted":true,"_id":"whpTidCWoJu8mA6l"}
-{"$$deleted":true,"_id":"wi4plqhRc9RwnCzB"}
+{"lcid":"halim","lsid":"007_halim_bunk.png","error":true,"errorVal":"[object Object]","_id":"waSR2pBCCKTZgxgS"}
+{"$$deleted":true,"_id":"wj6HarqoZAimQbzK"}
+{"$$deleted":true,"_id":"wjhJxzZhyqM5paIA"}
+{"$$deleted":true,"_id":"wk10oMm8IE2XAUlg"}
