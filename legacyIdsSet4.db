@@ -95,89 +95,13 @@
 {"lcid":"octopus400","lsid":"025_octo_sunainhidera.png","error":true,"errorVal":"not found in db","_id":"VIXZFEd5bUlk4R94"}
 {"lcid":"halim","lsid":"007_halim_bunk.png","error":true,"errorVal":"[object Object]","_id":"waSR2pBCCKTZgxgS"}
 {"lcid":"angry","lsid":"010_Devil.png","error":true,"errorVal":"not found in db","_id":"xIfSAF5hndlPYEw0"}
-{"lcid":"chalahawayeudya","lsid":"003_chalahawayeudya_eknumber.png","error":true,"errorVal":"Error: The uploaded data did not match the data from the server. As a precaution, the file has been deleted. To be sure the content is the same, you should try uploading the file again.","_id":"xkxICtZcMhn8h1Yq"}
 {"lcid":"octopus400","lsid":"016_octo_zubankolagaamdo.png","error":true,"errorVal":"not found in db","_id":"xsM2k0gVM0XZuKFZ"}
 {"lcid":"octopus400","lsid":"023_octo_ooooooo.png","error":true,"errorVal":"not found in db","_id":"yFQZVqOFcMUpIgME"}
-{"lcid":"festive","lsid":"305_foi_alluri.png","error":true,"errorVal":"not exists in new world","_id":"yY6F75F0YfeDs1CR"}
-{"lcid":"jss","lsid":"004_jss_audi.png","error":true,"errorVal":"not exists in new world","_id":"yYBn68qrJ0sGp41R"}
-{"lcid":"rajasthan2","lsid":"005_mazoaagiyorj.png","error":true,"errorVal":"not exists in new world","_id":"yYSrH3tP6AI8LS9A"}
-{"lcid":"nri","lsid":"012_nri_yogacamp.png","error":true,"errorVal":"not exists in new world","_id":"yYWgpiAz0LsbCpaK"}
-{"lcid":"bms","lsid":"002_bms_building.png","error":true,"errorVal":"not exists in new world","_id":"yYkXCP6N8bHeId5i"}
-{"lcid":"hindijukebox","lsid":"029_hinjb_khasmanukhane.png","error":true,"errorVal":"not exists in new world","_id":"yZ8CbE4LxkzB2Nw2"}
-{"lcid":"khmc","lsid":"008_khmc_smoke.png","error":true,"errorVal":"not exists in new world","_id":"yZJhMEkutkzaCjEP"}
-{"lcid":"sounds","lsid":"003_sounds_xoxo.png","error":true,"errorVal":"not exists in new world","_id":"yZfeaNyNLhCcWjnJ"}
-{"lcid":"vckk","lsid":"004_vckk_library.png","error":true,"errorVal":"not exists in new world","_id":"yZhbyA9J6kq0XkU3"}
-{"lcid":"mithunda","lsid":"012_mithun_nariyalpaniwala.png","error":true,"errorVal":"not exists in new world","_id":"yZlM5pl403xpAEp5"}
-{"lcid":"bengaliboy","lsid":"017_bongboy_peyechi.png","error":true,"errorVal":"not exists in new world","_id":"yZuDw193F5oQdpZ8"}
-{"lcid":"mamooty","lsid":"007_mamoo_classayitund.png","error":true,"errorVal":"not exists in new world","_id":"yZvJsT1T744jSDNU"}
-{"lcid":"gujaratlove2","lsid":"007_gjl2_tubausaarilageche.png","error":true,"errorVal":"not exists in new world","_id":"ya02VEgdIZA4aBPQ"}
-{"lcid":"maghaigeneral","lsid":"005_maghai_shubhprabhat.png","error":true,"errorVal":"not exists in new world","_id":"ya4IEVIizlxrqudr"}
-{"lcid":"soauniversity","lsid":"002_soauniversity_building.png","error":true,"errorVal":"not exists in new world","_id":"yaJ1lgqDsDRCnUMt"}
-{"lcid":"malyalamfriendship2","lsid":"001_malfrnd2_avanoruparama.png","error":true,"errorVal":"not exists in new world","_id":"yacuWaE7D9M7RPoJ"}
-{"lcid":"gujaratinicknames2","lsid":"005_gujjunick2_dafod.png","error":true,"errorVal":"not exists in new world","_id":"yalhao1Hc4w3KWL2"}
-{"lcid":"malyalamfriendship","lsid":"010_malfrnd_panikittum.png","error":true,"errorVal":"not exists in new world","_id":"yayeonL7JIu2MOao"}
-{"lcid":"kumaonilove","lsid":"036_kumalv_tumulmakkekabbe.png","error":true,"errorVal":"not exists in new world","_id":"yb33RjnVPHtDv2vw"}
-{"lcid":"bengalifood","lsid":"006_benfood_peyaji.png","error":true,"errorVal":"not exists in new world","_id":"ybK7PSvx6NJkmj8j"}
-{"lcid":"nepalifriendship","lsid":"002_nepfrnds_tohjasto.png","error":true,"errorVal":"not exists in new world","_id":"ybiHpIKrKBcTBi3h"}
-{"lcid":"gurunanakcollege","lsid":"001_gurunanakcollege_ilove.png","error":true,"errorVal":"not exists in new world","_id":"yc0lKxqCxUUu0rVC"}
-{"lcid":"kamalhassan","lsid":"016_kamal_avananiruthaso.png","error":true,"errorVal":"not exists in new world","_id":"ycSfg40D0RUMNqn4"}
-{"lcid":"biggboss10","lsid":"008_bb_charitraheen.png","error":true,"errorVal":"not exists in new world","_id":"ycWw99EaCD3TT3C9"}
-{"lcid":"biggboss10","lsid":"007_bb_aajaiyenahar.png","error":true,"errorVal":"not exists in new world","_id":"yclZy2TQs2cNAaVh"}
-{"lcid":"festive2016","lsid":"225_festive_happynowruz.png","error":true,"errorVal":"not exists in new world","_id":"yclhTeeuFWmfcvan"}
-{"lcid":"maheshbabu2","lsid":"013_mahbabu2_update.png","error":true,"errorVal":"not exists in new world","_id":"ycmxdwsXcEvvOAta"}
-{"lcid":"gujarat","lsid":"007_gj_hutanepremkaruchu.png","error":true,"errorVal":"not exists in new world","_id":"yct3x4vo658avzDt"}
-{"lcid":"bmsce","lsid":"007_bmsce_bunk.png","error":true,"errorVal":"not exists in new world","_id":"yd4s4vv8t82n8eok"}
-{"lcid":"kolkatastreetlingo","lsid":"010_kolsl_oshobbo.png","error":true,"errorVal":"not exists in new world","_id":"yd5OJRytZBvsxhWs"}
-{"lcid":"spwtirupati","lsid":"001_spwtirupati_ilove.png","error":true,"errorVal":"not exists in new world","_id":"yd5TISbmpdEQzYHh"}
-{"lcid":"hindijukebox","lsid":"019_hinjb_yetohbata.png","error":true,"errorVal":"not exists in new world","_id":"ydCrbruLomLseHUd"}
-{"lcid":"acet","lsid":"002_acet_collegerocks.png","error":true,"errorVal":"not exists in new world","_id":"ydCrsWTQKKEBWa5c"}
-{"lcid":"hinfamily","lsid":"019_hinfam_dhangsebaatkar.png","error":true,"errorVal":"not exists in new world","_id":"ydIMhUUGEzh046TP"}
-{"lcid":"kelapack","lsid":"002_kela_atkela.png","error":true,"errorVal":"not exists in new world","_id":"ydKs1z3TcImr1xui"}
-{"lcid":"bvcec","lsid":"004_bvcec_library.png","error":true,"errorVal":"not exists in new world","_id":"ydPbSOWpsH0qWIIO"}
-{"lcid":"gcg","lsid":"006_gcg_loverspoint.png","error":true,"errorVal":"not exists in new world","_id":"ydRICFlQ1QXwM7UV"}
-{"lcid":"gobindcollege","lsid":"003_gobindcollege_lab.png","error":true,"errorVal":"not exists in new world","_id":"ydctX74bCGCjghP3"}
-{"lcid":"humanoid","lsid":"030_Ravan.png","error":true,"errorVal":"not exists in new world","_id":"ydeqiTWR3kAGtkFx"}
-{"lcid":"baigan","lsid":"003_hydbai_baiganmalumtereku.png","error":true,"errorVal":"not exists in new world","_id":"ydjtxDzrEPBZRKpW"}
-{"lcid":"vgc","lsid":"007_vgc_bunk.png","error":true,"errorVal":"not exists in new world","_id":"ydkQ1sJmOn00HAMd"}
-{"lcid":"excuses2","lsid":"023_excusesgb2_studying.png","error":true,"errorVal":"not exists in new world","_id":"ydwyTh7XALuemqpo"}
-{"lcid":"bihar","lsid":"053_bh_bahuthogail.png","error":true,"errorVal":"not exists in new world","_id":"ye3T5DtD3LKzHVXf"}
-{"lcid":"mullu","lsid":"027_gisc1_mu_sick.png","error":true,"errorVal":"not exists in new world","_id":"ye7kkE5Cqmnr0TeX"}
-{"lcid":"christmasnye","lsid":"002_xmasnye_merryxmas.png","error":true,"errorVal":"not exists in new world","_id":"yeAsINOCgfcRTHkr"}
-{"lcid":"dogrigeneral","lsid":"009_dogri_na.png","error":true,"errorVal":"not exists in new world","_id":"yeCABOByac1eRLp7"}
-{"lcid":"marathigirls","lsid":"008_marfem_trassdeunakos.png","error":true,"errorVal":"not exists in new world","_id":"yeD6OlOSqFtqzGZp"}
-{"lcid":"vidyalankar","lsid":"007_vidyalankar_attendance.png","error":true,"errorVal":"not exists in new world","_id":"yeOqQ9Dm5TSgdXrL"}
-{"lcid":"planning2","lsid":"001_pl2_kyascenehai.png","error":true,"errorVal":"not exists in new world","_id":"yf3GMijDq5bFsxGZ"}
-{"lcid":"daya","lsid":"004_daya_audi.png","error":true,"errorVal":"not exists in new world","_id":"yfGRrBE8OPzExt5M"}
-{"lcid":"dosti","lsid":"001_dost_bawa.png","error":true,"errorVal":"not exists in new world","_id":"yfKVT0xUbe4sJktn"}
-{"lcid":"marathinicknames2","lsid":"020_marnick2_hushar.png","error":true,"errorVal":"not exists in new world","_id":"yfcSl3JaNpq426Rv"}
-{"lcid":"apoorvacollege","lsid":"001_apoorvacollege_ilove.png","error":true,"errorVal":"not exists in new world","_id":"yfkbQ3witWcCXOnO"}
-{"lcid":"politics","lsid":"017_po_rjd.png","error":true,"errorVal":"not exists in new world","_id":"ygG8d13jPwGUIZS2"}
-{"lcid":"kamlanehrunagpur","lsid":"001_kamlanehrunagpur_ilove.png","error":true,"errorVal":"not exists in new world","_id":"ygMt8Zc9JPcPzGo7"}
-{"lcid":"hosteleng","lsid":"008_hosteleng_whohasthekeys.png","error":true,"errorVal":"not exists in new world","_id":"ygTbtuYaUwfMAVGo"}
-{"lcid":"srucollege","lsid":"007_srucollege_bunk.png","error":true,"errorVal":"not exists in new world","_id":"ygV9XhOlsKoao5Zn"}
-{"lcid":"love","lsid":"038_teamo.png","error":true,"errorVal":"not exists in new world","_id":"ygWE76e5IiT3GSsW"}
-{"lcid":"festive","lsid":"112_eidmubarak.png","error":true,"errorVal":"not exists in new world","_id":"ygZtmzUXX4nRALWA"}
-{"lcid":"pharaoh","lsid":"005_pharaoh_grandsalute.png","error":true,"errorVal":"not exists in new world","_id":"ygb8njL8JVU78zHG"}
-{"lcid":"rajni","lsid":"012_rk_kooti.png","error":true,"errorVal":"not exists in new world","_id":"ygbY3rC81uf1LVWV"}
-{"lcid":"officenglish","lsid":"017_offeng_done.png","error":true,"errorVal":"not exists in new world","_id":"ygkejPFRGIESw0WP"}
-{"lcid":"spwtirupati","lsid":"006_spwtirupati_loverspoint.png","error":true,"errorVal":"not exists in new world","_id":"yhJyijnDu6x4gFMv"}
-{"lcid":"kumaonilove","lsid":"016_kumalv_tyubhatti.png","error":true,"errorVal":"not exists in new world","_id":"yhV5UiA5RnJt8EPH"}
-{"lcid":"festive2016","lsid":"077_festive_aayudhapoojai.png","error":true,"errorVal":"not exists in new world","_id":"yhZNdHqlW8UuyY0X"}
-{"lcid":"marathi2","lsid":"006_aichyagavaat.png","error":true,"errorVal":"not exists in new world","_id":"yhlf7nrzSoYsBlfY"}
-{"lcid":"sindhigeneral","lsid":"024_sindhi_haltabhaji.png","error":true,"errorVal":"not exists in new world","_id":"yho0ww3KbbifBTcR"}
-{"lcid":"jaatboys","lsid":"007_jaat_gunsguts.png","error":true,"errorVal":"not exists in new world","_id":"yhwItrIbLQ40rX24"}
-{"lcid":"marathicinema2","lsid":"039_mc2_zhapatlela.png","error":true,"errorVal":"not exists in new world","_id":"yi0eGpRzZLl1zcF8"}
-{"lcid":"bilasa","lsid":"007_bilasa_bunk.png","error":true,"errorVal":"not exists in new world","_id":"yiB5lNSDc7Z1sDl7"}
-{"lcid":"maithiliboys","lsid":"028_mait_aarebokaa.png","error":true,"errorVal":"not exists in new world","_id":"yih0D9tbZRHEifIB"}
-{"lcid":"mamooty2","lsid":"011_mamoo2_imsethurama.png","error":true,"errorVal":"not exists in new world","_id":"yiwIPj2RFWADXoco"}
-{"lcid":"bodoboys","lsid":"018_bodoboys_makhalamdwng.png","error":true,"errorVal":"not exists in new world","_id":"yjZy5AoNSJXm6B9y"}
-{"lcid":"bangalore","lsid":"016_ka_hellumaga.png","error":true,"errorVal":"not exists in new world","_id":"yjkz5Vrs260qfeYy"}
-{"lcid":"telugulove2","lsid":"019_telfem2_andalarakshasi.png","error":true,"errorVal":"not exists in new world","_id":"yjlXmhrZFaOzT9oZ"}
 {"lcid":"bengalifood","lsid":"009_benfood_kathirolls.png","error":true,"errorVal":"not exists in new world","_id":"yk1wA7i3K6Y7XQx1"}
 {"$$indexCreated":{"fieldName":"error","unique":false,"sparse":false}}
 {"lcid":"octopus350","lsid":"028_octo_sorygaltisemistakehogya.png","error":true,"errorVal":"not found in db","_id":"04nth4O4PkAtrH0M"}
-{"lcid":"cats400","lsid":"003_cats_drinkingmilk.png","error":true,"errorVal":"not found in db","_id":"0fR9662IRIiIGsUs"}
 {"lcid":"octopus400","lsid":"021_octo_lubu.png","error":true,"errorVal":"not found in db","_id":"0lUojX4WdsbWqtyr"}
+{"lcid":"cats400","lsid":"003_cats_drinkingmilk.png","error":true,"errorVal":"not found in db","_id":"0fR9662IRIiIGsUs"}
 {"lcid":"octopus350","lsid":"027_octo_idharich.png","error":true,"errorVal":"not found in db","_id":"24GXoRSUcKWA7CRE"}
 {"lcid":"cats350","lsid":"006_cats_purrr.png","error":true,"errorVal":"not found in db","_id":"28GDa4JoODollcCZ"}
 {"lcid":"octopus350","lsid":"016_octo_zubankolagaamdo.png","error":true,"errorVal":"not found in db","_id":"2SCUboS7bXbWA3J9"}
@@ -250,7 +174,6 @@
 {"lcid":"octopus350","lsid":"020_octo_khalipilichaatmat.png","error":true,"errorVal":"not found in db","_id":"PFqkdODExOvsWZFP"}
 {"lcid":"octopus350","lsid":"013_octo_nakko.png","error":true,"errorVal":"not found in db","_id":"Q5jF4kE1Aqi6ZMoB"}
 {"lcid":"cats350","lsid":"035_cats_getaway.png","error":true,"errorVal":"not found in db","_id":"QJxUsdQSkQVkQbAF"}
-{"lcid":"gangte","lsid":"023_gangte_kipake.png","error":true,"errorVal":"[object Object]","_id":"QZA9iSXl4j5RCT9x"}
 {"lcid":"cats400","lsid":"010_cats_yikes.png","error":true,"errorVal":"not found in db","_id":"QwKVOfJf8KK94hmg"}
 {"lcid":"octopus400","lsid":"009_octo_aatamajhisatkli.png","error":true,"errorVal":"not found in db","_id":"R4DNSHjNM2C6UUbc"}
 {"lcid":"octopus350","lsid":"005_octo_goliseudadunga.png","error":true,"errorVal":"not found in db","_id":"Rph9wfKmmZCoKc4e"}
@@ -270,83 +193,9 @@
 {"lcid":"cats400","lsid":"012_cats_muah.png","error":true,"errorVal":"not found in db","_id":"UtrTMGEGkfF5Vj06"}
 {"lcid":"experiments","lsid":"002_alliswell.png","error":true,"errorVal":"not found in db","_id":"UwQkVBGN8QcvFCOx"}
 {"lcid":"octopus400","lsid":"025_octo_sunainhidera.png","error":true,"errorVal":"not found in db","_id":"VIXZFEd5bUlk4R94"}
-{"lcid":"halim","lsid":"007_halim_bunk.png","error":true,"errorVal":"[object Object]","_id":"waSR2pBCCKTZgxgS"}
 {"lcid":"angry","lsid":"010_Devil.png","error":true,"errorVal":"not found in db","_id":"xIfSAF5hndlPYEw0"}
-{"$$deleted":true,"_id":"xkxICtZcMhn8h1Yq"}
 {"lcid":"octopus400","lsid":"016_octo_zubankolagaamdo.png","error":true,"errorVal":"not found in db","_id":"xsM2k0gVM0XZuKFZ"}
 {"lcid":"octopus400","lsid":"023_octo_ooooooo.png","error":true,"errorVal":"not found in db","_id":"yFQZVqOFcMUpIgME"}
-{"$$deleted":true,"_id":"yY6F75F0YfeDs1CR"}
-{"$$deleted":true,"_id":"yYBn68qrJ0sGp41R"}
-{"$$deleted":true,"_id":"yYSrH3tP6AI8LS9A"}
-{"$$deleted":true,"_id":"yYWgpiAz0LsbCpaK"}
-{"$$deleted":true,"_id":"yYkXCP6N8bHeId5i"}
-{"$$deleted":true,"_id":"yZ8CbE4LxkzB2Nw2"}
-{"$$deleted":true,"_id":"yZJhMEkutkzaCjEP"}
-{"$$deleted":true,"_id":"yZfeaNyNLhCcWjnJ"}
-{"$$deleted":true,"_id":"yZhbyA9J6kq0XkU3"}
-{"$$deleted":true,"_id":"yZlM5pl403xpAEp5"}
-{"$$deleted":true,"_id":"yZuDw193F5oQdpZ8"}
-{"$$deleted":true,"_id":"yZvJsT1T744jSDNU"}
-{"$$deleted":true,"_id":"ya02VEgdIZA4aBPQ"}
-{"$$deleted":true,"_id":"ya4IEVIizlxrqudr"}
-{"$$deleted":true,"_id":"yaJ1lgqDsDRCnUMt"}
-{"$$deleted":true,"_id":"yacuWaE7D9M7RPoJ"}
-{"$$deleted":true,"_id":"yalhao1Hc4w3KWL2"}
-{"$$deleted":true,"_id":"yayeonL7JIu2MOao"}
-{"$$deleted":true,"_id":"yb33RjnVPHtDv2vw"}
-{"$$deleted":true,"_id":"ybK7PSvx6NJkmj8j"}
-{"$$deleted":true,"_id":"ybiHpIKrKBcTBi3h"}
-{"$$deleted":true,"_id":"yc0lKxqCxUUu0rVC"}
-{"$$deleted":true,"_id":"ycSfg40D0RUMNqn4"}
-{"$$deleted":true,"_id":"ycWw99EaCD3TT3C9"}
-{"$$deleted":true,"_id":"yclZy2TQs2cNAaVh"}
-{"$$deleted":true,"_id":"yclhTeeuFWmfcvan"}
-{"$$deleted":true,"_id":"ycmxdwsXcEvvOAta"}
-{"$$deleted":true,"_id":"yct3x4vo658avzDt"}
-{"$$deleted":true,"_id":"yd4s4vv8t82n8eok"}
-{"$$deleted":true,"_id":"yd5OJRytZBvsxhWs"}
-{"$$deleted":true,"_id":"yd5TISbmpdEQzYHh"}
-{"$$deleted":true,"_id":"ydCrbruLomLseHUd"}
-{"$$deleted":true,"_id":"ydCrsWTQKKEBWa5c"}
-{"$$deleted":true,"_id":"ydIMhUUGEzh046TP"}
-{"$$deleted":true,"_id":"ydKs1z3TcImr1xui"}
-{"$$deleted":true,"_id":"ydPbSOWpsH0qWIIO"}
-{"$$deleted":true,"_id":"ydRICFlQ1QXwM7UV"}
-{"$$deleted":true,"_id":"ydctX74bCGCjghP3"}
-{"$$deleted":true,"_id":"ydeqiTWR3kAGtkFx"}
-{"$$deleted":true,"_id":"ydjtxDzrEPBZRKpW"}
-{"$$deleted":true,"_id":"ydkQ1sJmOn00HAMd"}
-{"$$deleted":true,"_id":"ydwyTh7XALuemqpo"}
-{"$$deleted":true,"_id":"ye3T5DtD3LKzHVXf"}
-{"$$deleted":true,"_id":"ye7kkE5Cqmnr0TeX"}
-{"$$deleted":true,"_id":"yeAsINOCgfcRTHkr"}
-{"$$deleted":true,"_id":"yeCABOByac1eRLp7"}
-{"$$deleted":true,"_id":"yeD6OlOSqFtqzGZp"}
-{"$$deleted":true,"_id":"yeOqQ9Dm5TSgdXrL"}
-{"$$deleted":true,"_id":"yf3GMijDq5bFsxGZ"}
-{"$$deleted":true,"_id":"yfGRrBE8OPzExt5M"}
-{"$$deleted":true,"_id":"yfKVT0xUbe4sJktn"}
-{"$$deleted":true,"_id":"yfcSl3JaNpq426Rv"}
-{"$$deleted":true,"_id":"yfkbQ3witWcCXOnO"}
-{"$$deleted":true,"_id":"ygG8d13jPwGUIZS2"}
-{"$$deleted":true,"_id":"ygMt8Zc9JPcPzGo7"}
-{"$$deleted":true,"_id":"ygTbtuYaUwfMAVGo"}
-{"$$deleted":true,"_id":"ygV9XhOlsKoao5Zn"}
-{"$$deleted":true,"_id":"ygWE76e5IiT3GSsW"}
-{"$$deleted":true,"_id":"ygZtmzUXX4nRALWA"}
-{"$$deleted":true,"_id":"ygb8njL8JVU78zHG"}
-{"$$deleted":true,"_id":"ygbY3rC81uf1LVWV"}
-{"$$deleted":true,"_id":"ygkejPFRGIESw0WP"}
-{"$$deleted":true,"_id":"yhJyijnDu6x4gFMv"}
-{"$$deleted":true,"_id":"yhV5UiA5RnJt8EPH"}
-{"$$deleted":true,"_id":"yhZNdHqlW8UuyY0X"}
-{"$$deleted":true,"_id":"yhlf7nrzSoYsBlfY"}
-{"$$deleted":true,"_id":"yho0ww3KbbifBTcR"}
-{"$$deleted":true,"_id":"yhwItrIbLQ40rX24"}
-{"$$deleted":true,"_id":"yi0eGpRzZLl1zcF8"}
-{"$$deleted":true,"_id":"yiB5lNSDc7Z1sDl7"}
-{"$$deleted":true,"_id":"yih0D9tbZRHEifIB"}
-{"$$deleted":true,"_id":"yiwIPj2RFWADXoco"}
-{"$$deleted":true,"_id":"yjZy5AoNSJXm6B9y"}
-{"$$deleted":true,"_id":"yjkz5Vrs260qfeYy"}
-{"$$deleted":true,"_id":"yjlXmhrZFaOzT9oZ"}
+{"lcid":"halim","lsid":"007_halim_bunk.png","error":true,"errorVal":"[object Object]","_id":"waSR2pBCCKTZgxgS"}
+{"lcid":"gangte","lsid":"023_gangte_kipake.png","error":true,"errorVal":"[object Object]","_id":"QZA9iSXl4j5RCT9x"}
+{"$$deleted":true,"_id":"yk1wA7i3K6Y7XQx1"}
