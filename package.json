@@ -18,6 +18,7 @@
     "cloudinary": "^1.9.1",
     "config": "^1.28.1",
     "mongoose": "^4.13.6",
-    "nedb": "^1.8.0"
+    "nedb": "^1.8.0",
+    "stream-json": "^0.5.2"
   }
 }
