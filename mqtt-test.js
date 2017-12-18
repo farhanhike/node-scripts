@@ -18,7 +18,7 @@ var host = 'tcp://10.0.1.35:2883'
 var options = {
   clientId: clientId,
   username: "Wc30IA1EL1UxUl_f",
-  password: "VXpRjHuPk3A=",
+  password: "dJKtWqTxxTU=",
   rejectUnauthorized: true
 }
 
@@ -44,7 +44,7 @@ client.on('connect', function () {
 
 client.subscribe('WhMpU_VczAATizJN/s', { qos: 1 })
 
-client.publish('WhMpU_VczAATizJN/s', JSON.stringify({"to":"+919953753342","d":{"ts":Date.now(),"i":2,"sm":"Helsadlo11"},"t":"m"}), { qos: 1, reatin:true}, function(error, val) {
+client.publish('Wczntw1ELzJdsVKh/s', JSON.stringify({"to":"+919911436371","d":{"ts":Date.now(),"i":2,"sm":"Helsadlo11"},"t":"m"}), { qos: 1, reatin:true}, function(error, val) {
   if(error) {
     console.log("Publish Error", error)
   }
